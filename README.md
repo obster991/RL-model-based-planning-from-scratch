@@ -6,5 +6,6 @@
 
 Python implementation of the paper "Learning model-based planning from scratch" of Razvan Pascanu et al. using PyTorch library.
 
+## About the project
 - Code is available in the notebook file "main.ipynb".
 - All information instead are written in the presentation slides of the project, contained in the file "info_slides.pdf"
