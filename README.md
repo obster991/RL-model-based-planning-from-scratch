@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-Python implementation of the paper [*"Learning model-based planning from scratch"](https://arxiv.org/pdf/1707.06170v1.pdf) of Razvan Pascanu et al.* using PyTorch library.
+Python implementation of the paper [*"Learning model-based planning from scratch"*](https://arxiv.org/pdf/1707.06170v1.pdf) of Razvan Pascanu et al. using PyTorch library.
 
 ## About the project
 - Code is available in the notebook file "main.ipynb".
